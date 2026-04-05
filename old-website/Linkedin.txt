@@ -1,0 +1,408 @@
+﻿Experience:
+
+
+* University of Michigan College of Engineering
+* University of Michigan College of Engineering
+* 2 yrs 5 mos
+* 2 yrs 5 mos
+* Ann Arbor, Michigan, United States
+* Ann Arbor, Michigan, United States
+      * Machine Learning Researcher
+      * Machine Learning Researcher
+      * Part-time
+      * Part-time
+      * Nov 2025 - Present · 2 mos
+      * Nov 2025 to Present · 2 mos
+      * Hybrid
+      * Hybrid
+            * Working within the RobustNet Lab to transition state-of-the-art KV-caching research into production compatible infrastructure. My core responsibility is re-architecting a research prototype into a robust integration for the modern vLLM and LMCache ecosystem.
+            *             * Current Scope:
+            * 
+Productionizing Research: Porting the logic from the paper "Compute Or Load KV Cache? Why Not Both?" (see below) from a legacy codebase into the current vLLM and LMCache main branches.
+
+Performance Goal: Enabling bidirectional KV prefill to reduce Time-to-First-Token (TTFT) and optimize GPU memory transfer overhead on Great Lakes HPC (A100/H100 GPU clusters).
+
+Reference Paper attached below.
+            * Working within the RobustNet Lab to transition state-of-the-art KV-caching research into production compatible infrastructure. My core responsibility is re-architecting a research prototype into a robust integration for the modern vLLM and LMCache ecosystem. Current Scope: Productionizing Research: Porting the logic from the paper "Compute Or Load KV Cache? Why Not Both?" (see below) from a legacy codebase into the current vLLM and LMCache main branches. Performance Goal: Enabling bidirectional KV prefill to reduce Time-to-First-Token (TTFT) and optimize GPU memory transfer overhead on Great Lakes HPC (A100/H100 GPU clusters). Reference Paper attached below.
+            * Skills: Machine Learning Infrastructure · Inference Optimization · vLLM · High Performance Computing (HPC)
+            * Skills: Machine Learning Infrastructure · Inference Optimization · vLLM · High Performance Computing (HPC)
+            *               * Compute Or Load KV Cache? Why Not Both?
+            * Compute Or Load KV Cache? Why Not Both?
+            *    * Student
+   * Student
+   * Full-time
+   * Full-time
+   * Aug 2023 - Present · 2 yrs 5 mos
+   * Aug 2023 to Present · 2 yrs 5 mos
+   * On-site
+   * On-site
+   * Skills: Microsoft Visual Studio Code · Algorithms · Software Development · Programming · Git · Google Gemini · Problem Solving · Object Oriented Design · Technical Understanding · Analytical Skills · Mathematics · Teamwork · GitHub · Pattern Recognition · Object-Oriented Programming (OOP) · Computer Science · Communication
+   * Skills: Microsoft Visual Studio Code · Algorithms · Software Development · Programming · Git · Google Gemini · Problem Solving · Object Oriented Design · Technical Understanding · Analytical Skills · Mathematics · Teamwork · GitHub · Pattern Recognition · Object-Oriented Programming (OOP) · Computer Science · Communication
+   *  PersistOS, Inc. logo    * AI Engineering Intern
+   * AI Engineering Intern
+   * PersistOS, Inc. · Part-time
+   * PersistOS, Inc. · Part-time
+   * Aug 2025 - Nov 2025 · 4 mos
+   * Aug 2025 to Nov 2025 · 4 mos
+   * San Francisco Bay Area · Remote
+   * San Francisco Bay Area · Remote
+      * Joined as the second non-founding engineer to build the core infrastructure for an agentic memory platform. Focused on optimizing inference latency and architecting evaluation pipelines for multimodal agents.
+      *       * Multimodal RAG Architecture: Architected a real-time Retrieval-Augmented Generation pipeline using Google Cloud Storage (GCS) and Redis, enabling sub-second voice-to-voice agent interactions.
+      * 
+Inference Optimization: Engineered a semantic caching layer via Convex that reduced API response times by 99% on repeat queries, significantly lowering cloud compute costs.
+
+Evaluation Infrastructure: Built a custom "LLM-as-a-Judge" testing suite in Python to benchmark agent memory retention and accuracy.
+      * Joined as the second non-founding engineer to build the core infrastructure for an agentic memory platform. Focused on optimizing inference latency and architecting evaluation pipelines for multimodal agents. Multimodal RAG Architecture: Architected a real-time Retrieval-Augmented Generation pipeline using Google Cloud Storage (GCS) and Redis, enabling sub-second voice-to-voice agent interactions. Inference Optimization: Engineered a semantic caching layer via Convex that reduced API response times by 99% on repeat queries, significantly lowering cloud compute costs. Evaluation Infrastructure: Built a custom "LLM-as-a-Judge" testing suite in Python to benchmark agent memory retention and accuracy.
+      * Skills: Python (Programming Language) · Large Language Models (LLM) · Convex
+      * Skills: Python (Programming Language) · Large Language Models (LLM) · Convex
+         *  Little Caesars Pizza logo          * Software Engineering Intern
+         * Software Engineering Intern
+         * Little Caesars Pizza · Internship
+         * Little Caesars Pizza · Internship
+         * May 2025 - Aug 2025 · 4 mos
+         * May 2025 to Aug 2025 · 4 mos
+         * Detroit, Michigan, United States · Hybrid
+         * Detroit, Michigan, United States · Hybrid
+            * During my internship, I was tasked with developing and improving critical internal systems to enhance operational efficiency and data accuracy for over 5,000 franchise locations.
+            * Key accomplishments include:
+            *             * Delivered a Scalable Communications Microservice: Architected and built a C# .NET microservice with a REST API to automate SMS communications with franchise stores using the Twilio API. This new service decoupled critical logic from existing applications and now logs all usage and statistics in MongoDB for analysis.
+
+Established a Foundational CI/CD Pipeline: To ensure the reliability and rapid deployment of the new microservice, I single-handedly architected and implemented the complete CI/CD pipeline from the ground up in Azure DevOps, creating a full build, test, and deployment automation framework.
+
+Automated New Store Onboarding: Eliminated a time-consuming manual process by creating a C# .NET batch-processing API for MongoDB. This new system streamlined the creation of new-store scripts, resulting in a 90% reduction in developer time required for this task, a significant decrease in data entry errors, and the successful decommissioning of a legacy command-line tool.
+
+Developed a Business Compliance Tracker: Created a franchise store hours tracker to monitor and analyze changes in location operating hours. This tool provided key insights into a company-wide initiative to extend store hours, tracking compliance and changes in opening times, and total operational hours across all stores.
+            * During my internship, I was tasked with developing and improving critical internal systems to enhance operational efficiency and data accuracy for over 5,000 franchise locations. Key accomplishments include: Delivered a Scalable Communications Microservice: Architected and built a C# .NET microservice with a REST API to automate SMS communications with franchise stores using the Twilio API. This new service decoupled critical logic from existing applications and now logs all usage and statistics in MongoDB for analysis. Established a Foundational CI/CD Pipeline: To ensure the reliability and rapid deployment of the new microservice, I single-handedly architected and implemented the complete CI/CD pipeline from the ground up in Azure DevOps, creating a full build, test, and deployment automation framework. Automated New Store Onboarding: Eliminated a time-consuming manual process by creating a C# .NET batch-processing API for MongoDB. This new system streamlined the creation of new-store scripts, resulting in a 90% reduction in developer time required for this task, a significant decrease in data entry errors, and the successful decommissioning of a legacy command-line tool. Developed a Business Compliance Tracker: Created a franchise store hours tracker to monitor and analyze changes in location operating hours. This tool provided key insights into a company-wide initiative to extend store hours, tracking compliance and changes in opening times, and total operational hours across all stores.
+            * Skills: Full-Stack Development · Algorithms · C# · Programming · Agile Methodologies · Docker · Database Development · Teamwork · Cloud Storage · Object-Oriented Programming (OOP) · Test Cases · Technical Documentation · Communication · Backend · Application Programming Interfaces (API) · Project Management · MongoDB
+            * Skills: Full-Stack Development · Algorithms · C# · Programming · Agile Methodologies · Docker · Database Development · Teamwork · Cloud Storage · Object-Oriented Programming (OOP) · Test Cases · Technical Documentation · Communication · Backend · Application Programming Interfaces (API) · Project Management · MongoDB
+               * Research Assistant
+               * Research Assistant
+               * Research Assistant
+               * University of Michigan Interactive Sensing and Computing Lab · Part-time
+               * University of Michigan Interactive Sensing and Computing Lab · Part-time
+               * Sep 2024 - Dec 2024 · 4 mos
+               * Sep 2024 to Dec 2024 · 4 mos
+               * Ann Arbor, Michigan, United States · On-site
+               * Ann Arbor, Michigan, United States · On-site
+               * Embedded System Development: Created an embedded system using an Orange Pi to perform real-time user activity level identification through machine learning algorithms.
+               *                * AI Implementation: Leveraged the Llama 3 model to analyze sensor data and identify user routines and activity levels, developing code in Python.
+               * 
+Performance Optimization: Implemented multithreading and strategic task routing to high-performance CPU cores to optimize the embedded system's performance and responsiveness.
+               * Embedded System Development: Created an embedded system using an Orange Pi to perform real-time user activity level identification through machine learning algorithms. AI Implementation: Leveraged the Llama 3 model to analyze sensor data and identify user routines and activity levels, developing code in Python. Performance Optimization: Implemented multithreading and strategic task routing to high-performance CPU cores to optimize the embedded system's performance and responsiveness.
+               * Skills: Algorithms · Embedded Software · Programming · Teamwork · Communication
+               * Skills: Algorithms · Embedded Software · Programming · Teamwork · Communication
+                  *  M-Fly Aero Design logo                   * Flight Systems Developer
+                  * Flight Systems Developer
+                  * M-Fly Aero Design · Part-time
+                  * M-Fly Aero Design · Part-time
+                  * Sep 2023 - Sep 2024 · 1 yr 1 mo
+                  * Sep 2023 to Sep 2024 · 1 yr 1 mo
+                  * Ann Arbor, Michigan, United States · On-site
+                  * Ann Arbor, Michigan, United States · On-site
+                     * MFly is an Aerospace Project Team at the University of Michigan. I am Flight Systems Developer where I work on software controlling the planes navigation control surfaces. In this role I have used a 3DVFH* algorithm for obstacle avoidance, and ROS, Python, and MAVLink to control the plane.
+                     * MFly is an Aerospace Project Team at the University of Michigan. I am Flight Systems Developer where I work on software controlling the planes navigation control surfaces. In this role I have used a 3DVFH* algorithm for obstacle avoidance, and ROS, Python, and MAVLink to control the plane.
+                     * Skills: Microsoft Visual Studio Code · Algorithms · Software Development · Motion Planning · Embedded Software · Programming · Robot Operating System (ROS) · Git · VMware · Problem Solving · Python (Programming Language) · Agile Methodologies · Microcontrollers · Technical Understanding · Analytical Skills · Mathematics · Teamwork · GitHub · Pattern Recognition · Computer Science · Communication · Project Management
+                     * Skills: Microsoft Visual Studio Code · Algorithms · Software Development · Motion Planning · Embedded Software · Programming · Robot Operating System (ROS) · Git · VMware · Problem Solving · Python (Programming Language) · Agile Methodologies · Microcontrollers · Technical Understanding · Analytical Skills · Mathematics · Teamwork · GitHub · Pattern Recognition · Computer Science · Communication · Project Management
+                     *  United Wholesale Mortgage logo                      * Software Development Intern
+                     * Software Development Intern
+                     * United Wholesale Mortgage · Internship
+                     * United Wholesale Mortgage · Internship
+                     * May 2024 - Aug 2024 · 4 mos
+                     * May 2024 to Aug 2024 · 4 mos
+                     * Pontiac, Michigan, United States · On-site
+                     * Pontiac, Michigan, United States · On-site
+                        * helped me get this job
+                        * LinkedIn helped me get this job
+                        * Impact: Re-engineered the internal employee rewards platform used by 750+ team leads. The modernized UI and improved workflow drove a 20% increase in monthly active users.
+                        *                         * Collaboration: Led requirement gathering sessions with stakeholders on the Employee Engagement team to define feature scopes for the internal rewards store, ensuring the final product alignment.
+                        * 
+Reliability: Managed backend operations for a dataset of 50,000+ entries, implementing automated testing protocols to ensure high availability for critical internal tools.
+                        * Impact: Re-engineered the internal employee rewards platform used by 750+ team leads. The modernized UI and improved workflow drove a 20% increase in monthly active users. Collaboration: Led requirement gathering sessions with stakeholders on the Employee Engagement team to define feature scopes for the internal rewards store, ensuring the final product alignment. Reliability: Managed backend operations for a dataset of 50,000+ entries, implementing automated testing protocols to ensure high availability for critical internal tools.
+                        * Skills: Microsoft Visual Studio Code · JavaScript · Algorithms · Software Development · Jira · Programming · Cascading Style Sheets (CSS) · Agile Methodologies · Copado · Apex Programming · HTML · Quality Assurance · Technical Understanding · Teamwork · Cloud Storage · Salesforce.com Development · Test Cases · Technical Documentation · Scrum · Communication · Backend · Snyk · Project Management · Unit Testing · Bitbucket
+
+
+Projects:
+
+Efficient Heterogeneous LLM Multi-Agent Debate Framework
+Efficient Heterogeneous LLM Multi-Agent Debate Framework
+Aug 2025 - Dec 2025Aug 2025 - Dec 2025
+Company logo
+Associated with University of Michigan College of Engineering
+Associated with University of Michigan College of Engineering
+Developed DOWN-HMAD, a resource-efficient Multi-Agent System (MAS) that reduces inference costs for complex reasoning tasks.
+
+
+Engineering & Infrastructure:
+
+
+HPC Deployment: Orchestrated large-scale inference workloads on the Great Lakes HPC cluster using Slurm job scheduling. Managed GPU resource allocation to run concurrent 8B+ parameter models (Llama-3, DeepSeek, Mathstral).
+
+
+Inference Optimization: Designed a confidence-based gating mechanism that reduced total FLOPs by 40%, successfully routing "easy" queries to single agents and reserving expensive multi-agent debate for complex tasks.
+
+
+Modular Architecture: Built a robust Python framework using the Factory Pattern to decouple application logic from model backends, allowing seamless switching between local vLLM and Hugging Face instances and external APIs.
+
+
+Research Extension: Replicated and extended the Multi-Agent Debate paper, identifying critical failure modes in token-confidence calibration (Syntactic Determinism).
+Developed DOWN-HMAD, a resource-efficient Multi-Agent System (MAS) that reduces inference costs for complex reasoning tasks. Engineering & Infrastructure: HPC Deployment: Orchestrated large-scale inference workloads on the Great Lakes HPC cluster using Slurm job scheduling. Managed GPU resource allocation to run concurrent 8B+ parameter models (Llama-3, DeepSeek, Mathstral). Inference Optimization: Designed a confidence-based gating mechanism that reduced total FLOPs by 40%, successfully routing "easy" queries to single agents and reserving expensive multi-agent debate for complex tasks. Modular Architecture: Built a robust Python framework using the Factory Pattern to decouple application logic from model backends, allowing seamless switching between local vLLM and Hugging Face instances and external APIs. Research Extension: Replicated and extended the Multi-Agent Debate paper, identifying critical failure modes in token-confidence calibration (Syntactic Determinism).
+Skills: HuggingFace · PyTorch · High Performance Computing (HPC) · Python (Programming Language)
+Skills: HuggingFace · PyTorch · High Performance Computing (HPC) · Python (Programming Language)
+
+
+Poster.pdfPoster.pdf
+Building Efficient Heterogenous Multi-Agent Debate Frameworks for Factual LLMs PosterBuilding Efficient Heterogenous Multi-Agent Debate Frameworks for Factual LLMs Poster
+
+
+Paper.pdfPaper.pdf
+Efficient Heterogenous Multi-Agent Debate Frameworks for Factual LLMsEfficient Heterogenous Multi-Agent Debate Frameworks for Factual LLMs
+
+
+GitHubGitHub
+Github link for the replication and extension of the projectGithub link for the replication and extension of the project
+Other contributorsOther contributors
+
+
+
+
+
+
+5
+Information Digest
+Information Digest
+Aug 2025 - Aug 2025Aug 2025 - Aug 2025
+Infrastructure-as-Code & CI/CD: Automated the entire infrastructure lifecycle using Terraform and GitHub Actions, creating a rigorous pipeline that executed comprehensive Pytest suites before deploying containerized services to GCP Cloud Run.
+
+
+Agentic Information Retrieval: Engineered a real-time search pipeline using LangChain and SerpAPI, enabling an LLM agent to autonomously decompose user queries, retrieve live web data, and synthesize up-to-date answers within a single API transaction.
+
+
+Production-Grade API: Built a strongly-typed REST interface using FastAPI to expose the AI agent, optimizing prompt engineering to ensure deterministic, JSON-structured outputs for reliable frontend integration.
+Infrastructure-as-Code & CI/CD: Automated the entire infrastructure lifecycle using Terraform and GitHub Actions, creating a rigorous pipeline that executed comprehensive Pytest suites before deploying containerized services to GCP Cloud Run. Agentic Information Retrieval: Engineered a real-time search pipeline using LangChain and SerpAPI, enabling an LLM agent to autonomously decompose user queries, retrieve live web data, and synthesize up-to-date answers within a single API transaction. Production-Grade API: Built a strongly-typed REST interface using FastAPI to expose the AI agent, optimizing prompt engineering to ensure deterministic, JSON-structured outputs for reliable frontend integration.
+Skills: LangChain · Docker · Terrafrom · Google Cloud Platform (GCP) · FastAPI · Google Cloud Run · GitHub · GitHub Actions
+Skills: LangChain · Docker · Terrafrom · Google Cloud Platform (GCP) · FastAPI · Google Cloud Run · GitHub · GitHub Actions
+Interview Bot Pro
+Interview Bot Pro
+Feb 2025 - Mar 2025Feb 2025 - Mar 2025
+Company logo
+Associated with University of Michigan College of Engineering
+Associated with University of Michigan College of Engineering
+A MacOS application that has performs and analyzes an interview that is tailored to the users experiences and target job. 
+
+
+Created questions that relate the users experiences to the jobs requirements, and will ask the user follow up questions based off of their answers to the previous questions.
+
+
+The users answers are graded based on the structure of their answer (ex using star method), how well they addressed the content of the question, and their voice prosody. Along with a job fit analysis that will parse all skills from the job description, and determine how well the user fits each requirement while providing justification.
+
+
+Content and skills analysis was powered by the Google Gemini Flash 1.5 LLM, and the speech prosody analysis was determined by using a Random Forests Machine Learning model trained on a dataset obtained by MIT of graded interview data combined with speech prosody data.
+A MacOS application that has performs and analyzes an interview that is tailored to the users experiences and target job. Created questions that relate the users experiences to the jobs requirements, and will ask the user follow up questions based off of their answers to the previous questions. The users answers are graded based on the structure of their answer (ex using star method), how well they addressed the content of the question, and their voice prosody. Along with a job fit analysis that will parse all skills from the job description, and determine how well the user fits each requirement while providing justification. Content and skills analysis was powered by the Google Gemini Flash 1.5 LLM, and the speech prosody analysis was determined by using a Random Forests Machine Learning model trained on a dataset obtained by MIT of graded interview data combined with speech prosody data.
+Skills: Python (Programming Language) · Google Gemini · Algorithms · Programming · Random Forest · Conversational AI · Full-Stack Development · Teamwork · OpenAI API · Backend · Machine Learning · Application Development · Large Language Models (LLM) · Project Management
+Skills: Python (Programming Language) · Google Gemini · Algorithms · Programming · Random Forest · Conversational AI · Full-Stack Development · Teamwork · OpenAI API · Backend · Machine Learning · Application Development · Large Language Models (LLM) · Project Management
+
+
+Multimodal Mock Interview Analysis and Generation using LLMs and Prosodic FeaturesMultimodal Mock Interview Analysis and Generation using LLMs and Prosodic Features
+Analysis of the creation and testing and verification of this projectAnalysis of the creation and testing and verification of this project
+
+
+Skills and Job Fit AnalysisSkills and Job Fit Analysis
+This is the screen where the user can see what skills from the job description they have or do not have along with an overall job fit assesment.This is the screen where the user can see what skills from the job description they have or do not have along with an overall job fit assesment.
+
+
+Screenshot 2025-04-24 at 1.27.42 AM.pngScreenshot 2025-04-24 at 1.27.42 AM.png
+This is an example screen for the interview speech and content analysis, which focuses on general interview grading, such as how they responded to the questions and their answer deliveryThis is an example screen for the interview speech and content analysis, which focuses on general interview grading, such as how they responded to the questions and their answer delivery
+Show all 5 media
+Ribbet - MHacks Project
+Ribbet - MHacks Project
+Oct 2024 - Oct 2024Oct 2024 - Oct 2024
+Designed and developed "Ribbet," a cross-platform social media application during MHacks, utilizing the MERN stack (MongoDB, Express.js, React Native, Node.js). This project aimed to create a unique social experience by enabling users to share daily life moments and add a playful element of betting on everyday occurrences.
+
+
+Key Features & Technologies:
+
+
+MERN Stack Architecture: Built a full-stack application using MongoDB for flexible data storage, Express.js and Node.js for a robust backend, and React Native for cross-platform mobile development (iOS and Android).
+
+
+CRUD Operations: Implemented complete Create, Read, Update, and Delete (CRUD) functionality for user and post data using a Node.js backend interacting with MongoDB collections.
+
+
+Social Media Functionality: Developed core social media features including user profiles, posting, feeds, and betting mechanisms.
+Designed and developed "Ribbet," a cross-platform social media application during MHacks, utilizing the MERN stack (MongoDB, Express.js, React Native, Node.js). This project aimed to create a unique social experience by enabling users to share daily life moments and add a playful element of betting on everyday occurrences. Key Features & Technologies: MERN Stack Architecture: Built a full-stack application using MongoDB for flexible data storage, Express.js and Node.js for a robust backend, and React Native for cross-platform mobile development (iOS and Android). CRUD Operations: Implemented complete Create, Read, Update, and Delete (CRUD) functionality for user and post data using a Node.js backend interacting with MongoDB collections. Social Media Functionality: Developed core social media features including user profiles, posting, feeds, and betting mechanisms.
+Skills: Python (Programming Language) · Algorithms · GitHub · Programming · React.js · Full-Stack Development · Teamwork · Node.js · Backend · Express.js · Cloud Storage · JavaScript · MongoDB · Project Management
+Skills: Python (Programming Language) · Algorithms · GitHub · Programming · React.js · Full-Stack Development · Teamwork · Node.js · Backend · Express.js · Cloud Storage · JavaScript · MongoDB · Project Management
+The Situation Room - Cal Hacks
+The Situation Room - Cal Hacks
+Oct 2024 - Oct 2024Oct 2024 - Oct 2024
+Created "The Situation Room" for Cal Hacks, an interactive computer game built in Unity (C#) that simulates a high-pressure de-escalation scenario. The game challenges players to effectively communicate with a hostile AI character, using real-time feedback based on AI-driven analysis.
+
+
+Interactive Gameplay in Unity: Developed a compelling game environment in Unity using C# scripting, focusing on interactive dialogue and dynamic character responses.
+
+
+AI-Driven Scoring System: Integrated Google Gemini for analyzing player dialogue content and Hume AI for real-time sentiment analysis of both player and AI character interactions. These AI analyses directly influenced the game's scoring, providing immediate feedback on de-escalation effectiveness.
+
+
+Python Backend Server: Built a Python server to handle backend logic, manage communication between the Unity game client and the Google Gemini and Hume AI APIs, ensuring seamless integration of AI capabilities.
+Created "The Situation Room" for Cal Hacks, an interactive computer game built in Unity (C#) that simulates a high-pressure de-escalation scenario. The game challenges players to effectively communicate with a hostile AI character, using real-time feedback based on AI-driven analysis. Interactive Gameplay in Unity: Developed a compelling game environment in Unity using C# scripting, focusing on interactive dialogue and dynamic character responses. AI-Driven Scoring System: Integrated Google Gemini for analyzing player dialogue content and Hume AI for real-time sentiment analysis of both player and AI character interactions. These AI analyses directly influenced the game's scoring, providing immediate feedback on de-escalation effectiveness. Python Backend Server: Built a Python server to handle backend logic, manage communication between the Unity game client and the Google Gemini and Hume AI APIs, ensuring seamless integration of AI capabilities.
+Skills: Python (Programming Language) · Google Gemini · Algorithms · Programming · C# · Full-Stack Development · Teamwork · Backend · Sentiment Analysis · Hume AI · Natural Language Processing (NLP) · Large Language Models (LLM) · Project Management
+Skills: Python (Programming Language) · Google Gemini · Algorithms · Programming · C# · Full-Stack Development · Teamwork · Backend · Sentiment Analysis · Hume AI · Natural Language Processing (NLP) · Large Language Models (LLM) · Project Management
+Inner Voice AI - Stemist Hacks Hackathon Winner
+Inner Voice AI - Stemist Hacks Hackathon Winner
+Jul 2024 - Jul 2024Jul 2024 - Jul 2024
+Developed "Inner Voice AI," a conversational AI therapist, which won 1st place at the Stemist Hacks hackathon. This project utilizes AI to provide users with a supportive and personalized conversational experience.
+
+
+AI-Driven Conversation: Integrated the OpenAI API (ChatGPT) for generating human-like and contextually relevant responses, creating a natural conversational flow.
+
+
+Sentiment Analysis with Hume AI: Employed Hume AI for real-time sentiment analysis of user input, enabling the AI to understand and respond to user emotions appropriately.
+
+
+Personalized User Experience: Utilized Google Firebase to store user login details and conversation history, allowing for personalized therapy sessions and continuity across interactions. SQL was used for structured data management within Firebase.
+
+
+Backend with Python & Flask: Built a Python Flask backend to orchestrate API calls, manage data flow, and integrate the various AI components.
+Developed "Inner Voice AI," a conversational AI therapist, which won 1st place at the Stemist Hacks hackathon. This project utilizes AI to provide users with a supportive and personalized conversational experience. AI-Driven Conversation: Integrated the OpenAI API (ChatGPT) for generating human-like and contextually relevant responses, creating a natural conversational flow. Sentiment Analysis with Hume AI: Employed Hume AI for real-time sentiment analysis of user input, enabling the AI to understand and respond to user emotions appropriately. Personalized User Experience: Utilized Google Firebase to store user login details and conversation history, allowing for personalized therapy sessions and continuity across interactions. SQL was used for structured data management within Firebase. Backend with Python & Flask: Built a Python Flask backend to orchestrate API calls, manage data flow, and integrate the various AI components.
+Skills: Python (Programming Language) · Flask · Algorithms · Programming · SQL · Conversational AI · Full-Stack Development · Teamwork · OpenAI API · Sentiment Analysis · Cloud Storage · ChatGPT · Hume AI · Natural Language Processing (NLP) · Large Language Models (LLM) · Firebase · Project Management
+Skills: Python (Programming Language) · Flask · Algorithms · Programming · SQL · Conversational AI · Full-Stack Development · Teamwork · OpenAI API · Sentiment Analysis · Cloud Storage · ChatGPT · Hume AI · Natural Language Processing (NLP) · Large Language Models (LLM) · Firebase · Project Management
+MAT-5
+MAT-5
+Aug 2023 - Jul 2024Aug 2023 - Jul 2024
+Company logo
+Associated with M-Fly Aero Design
+Associated with M-Fly Aero Design
+I was a flight systems developer for the MAT-5 Plane for MFly. 
+On this project I used a 3DVFH* algorithm to dynamically avoid obstacles and follow a path autonomously, used remote ID to recieve the locations of other aircraft and connected and controlled a planes sensors and control surfaces using ROS and python.
+I was a flight systems developer for the MAT-5 Plane for MFly. On this project I used a 3DVFH* algorithm to dynamically avoid obstacles and follow a path autonomously, used remote ID to recieve the locations of other aircraft and connected and controlled a planes sensors and control surfaces using ROS and python.
+Skills: Python (Programming Language) · Agile Methodologies · Robot Operating System (ROS) · Problem Solving · Algorithms · GitHub · Motion Planning · Embedded Software · Programming · Teamwork · Microcontrollers · Delegation · Technical Understanding · Communication · Analytical Skills · Mathematics · Software Development · Project Management
+Skills: Python (Programming Language) · Agile Methodologies · Robot Operating System (ROS) · Problem Solving · Algorithms · GitHub · Motion Planning · Embedded Software · Programming · Teamwork · Microcontrollers · Delegation · Technical Understanding · Communication · Analytical Skills · Mathematics · Software Development · Project Management
+NavPod
+NavPod
+Jan 2020 - Jun 2023Jan 2020 - Jun 2023
+The purpose of the NavPod is to precisely track the position of a robot relative to a starting location. The NavPod had three main parts: an optical flow sensor, an IMU and a seeeduino (off brand arduino). The optical flow sensor tracked translational movement, the IMU tracked rotational movement, and the seeeduino uses a sensor fusion algorithm to determine the robots location, and sends this information to the robot. The seeeduino communicated with the optical flow sensor and IMU over I2C. The robot's location was sent to the main robot over a serial connection over USB.
+The purpose of the NavPod is to precisely track the position of a robot relative to a starting location. The NavPod had three main parts: an optical flow sensor, an IMU and a seeeduino (off brand arduino). The optical flow sensor tracked translational movement, the IMU tracked rotational movement, and the seeeduino uses a sensor fusion algorithm to determine the robots location, and sends this information to the robot. The seeeduino communicated with the optical flow sensor and IMU over I2C. The robot's location was sent to the main robot over a serial connection over USB.
+Skills: Arduino · Agile Methodologies · Problem Solving · Algorithms · GitHub · Embedded Software · Programming · I2C · Embedded Systems · Teamwork · Leadership · Microcontrollers · Delegation · Technical Understanding · Communication · Analytical Skills · Sensors · Mathematics · Software Development · Sensor Fusion · Project Management
+Skills: Arduino · Agile Methodologies · Problem Solving · Algorithms · GitHub · Embedded Software · Programming · I2C · Embedded Systems · Teamwork · Leadership · Microcontrollers · Delegation · Technical Understanding · Communication · Analytical Skills · Sensors · Mathematics · Software Development · Sensor Fusion · Project Management
+Reaper
+Reaper
+Jan 2023 - Jun 2023Jan 2023 - Jun 2023
+This was a robot designed to play the FRC 2023 game Charged Up. This robot would drive around on a differential swerve drive chassis and precisely place 13 inch cones and 9 inch cubes. This robot would play the game in two parts, one fully autonomous section, and one where the robot is human controlled.
+
+
+List of Responsibilities:
+- Developed motion profiling code to precisely control the velocity and position of robot elements.
+- Developed code to control a differential swerve drive chassis. 
+- Collected, analyzed, and acted on data to tune the PID controls for a differntial swerve.
+- Updated autonomous pathing software from previous projects to include a time axis.
+- Created autonomous sub-routines that controlled spec-ops elements on the robot.
+- Planned, implemented, and optimized autonomous sequences
+- Misc soldering, wiring, and part design and manufacturing.
+This was a robot designed to play the FRC 2023 game Charged Up. This robot would drive around on a differential swerve drive chassis and precisely place 13 inch cones and 9 inch cubes. This robot would play the game in two parts, one fully autonomous section, and one where the robot is human controlled. List of Responsibilities: - Developed motion profiling code to precisely control the velocity and position of robot elements. - Developed code to control a differential swerve drive chassis. - Collected, analyzed, and acted on data to tune the PID controls for a differntial swerve. - Updated autonomous pathing software from previous projects to include a time axis. - Created autonomous sub-routines that controlled spec-ops elements on the robot. - Planned, implemented, and optimized autonomous sequences - Misc soldering, wiring, and part design and manufacturing.
+Skills: Agile Methodologies · Problem Solving · Algorithms · GitHub · Motion Planning · Programming · Object-Oriented Programming (OOP) · Microsoft Visual Studio Code · Systems Engineering · Teamwork · Leadership · Microcontrollers · Delegation · Git · C++ · Technical Understanding · Communication · Analytical Skills · Mathematics · Software Development · Sensor Fusion · Project Management
+Skills: Agile Methodologies · Problem Solving · Algorithms · GitHub · Motion Planning · Programming · Object-Oriented Programming (OOP) · Microsoft Visual Studio Code · Systems Engineering · Teamwork · Leadership · Microcontrollers · Delegation · Git · C++ · Technical Understanding · Communication · Analytical Skills · Mathematics · Software Development · Sensor Fusion · Project Management
+Blade
+Blade
+Jan 2022 - Dec 2022Jan 2022 - Dec 2022
+This was a robot designed to play the FRC 2022 game Rapid React. This robot would drive around on a swerve drive chassis pick up 9.5in diameter foam balls and shoot them up to 30ft into a target. This robot would play the game in two parts, one fully autonomous section, and one where the robot is human controlled.
+
+
+List of responsibilities:
+- Created autonomous shoot sequence where the robot would use its current location and the location of the target to calculate the target launch angle, launch velocity, and robot orientation.
+- Developed a state based control scheme for the special operations of the robot.
+- Implemented a time of flight sensor and seeeduino (off brand arduino) to report the distance of an object in front of it using an analog signal.
+- Wrote code to find the absolute angle of a rotating arm based off the gravity vector of the robot and the angle the angle of the arm relative to to the robot.
+- Planned, implemented, and optimized autonomous sequences
+- Misc soldering, wiring, and part design and manufacturing.
+This was a robot designed to play the FRC 2022 game Rapid React. This robot would drive around on a swerve drive chassis pick up 9.5in diameter foam balls and shoot them up to 30ft into a target. This robot would play the game in two parts, one fully autonomous section, and one where the robot is human controlled. List of responsibilities: - Created autonomous shoot sequence where the robot would use its current location and the location of the target to calculate the target launch angle, launch velocity, and robot orientation. - Developed a state based control scheme for the special operations of the robot. - Implemented a time of flight sensor and seeeduino (off brand arduino) to report the distance of an object in front of it using an analog signal. - Wrote code to find the absolute angle of a rotating arm based off the gravity vector of the robot and the angle the angle of the arm relative to to the robot. - Planned, implemented, and optimized autonomous sequences - Misc soldering, wiring, and part design and manufacturing.
+Skills: Arduino · Agile Methodologies · Problem Solving · Algorithms · GitHub · Motion Planning · Programming · Object-Oriented Programming (OOP) · Microsoft Visual Studio Code · Systems Engineering · Teamwork · Leadership · Microcontrollers · Delegation · Git · C++ · Technical Understanding · Communication · Analytical Skills · Mathematics · Software Development · Sensor Fusion · Project Management
+Skills: Arduino · Agile Methodologies · Problem Solving · Algorithms · GitHub · Motion Planning · Programming · Object-Oriented Programming (OOP) · Microsoft Visual Studio Code · Systems Engineering · Teamwork · Leadership · Microcontrollers · Delegation · Git · C++ · Technical Understanding · Communication · Analytical Skills · Mathematics · Software Development · Sensor Fusion · Project Management
+Raptor
+Raptor
+Jan 2020 - Dec 2021Jan 2020 - Dec 2021
+This was a robot designed to play the FRC 2020 game Infinite Recharge. This robot would drive around on a swerve drive chassis pick up 7in diameter foam balls and shoot them up to 30ft into a target. This robot would play the game in two parts, one fully autonomous section, and one where the robot is human controlled.
+
+
+List of responsibilities:
+- Create autonomous pathing software that smoothly allows the robot to traverse a path of predefined points. These points were connected using hermite splines.
+- Implement the NavPod into pathing software. The NavPod is a device that records the exact location of the robot, for more information see NavPod project.
+- Develop software to allow a turret on the robot to always stay aimed at the target based on the robots current location and orientation that are received from the NavPod.
+- Created software to shoot a ball into a target from anywhere within 30ft of a target. To do this the proper launch angle, exit velocity and turret angle were calculated.
+- Wrote game element detection software to detect a yellow ball using a GRIP pipeline, webcam and a raspberry pi.
+- Planned, implemented, and optimized autonomous sequences
+- Misc soldering, wiring, and part design and manufacturing.
+This was a robot designed to play the FRC 2020 game Infinite Recharge. This robot would drive around on a swerve drive chassis pick up 7in diameter foam balls and shoot them up to 30ft into a target. This robot would play the game in two parts, one fully autonomous section, and one where the robot is human controlled. List of responsibilities: - Create autonomous pathing software that smoothly allows the robot to traverse a path of predefined points. These points were connected using hermite splines. - Implement the NavPod into pathing software. The NavPod is a device that records the exact location of the robot, for more information see NavPod project. - Develop software to allow a turret on the robot to always stay aimed at the target based on the robots current location and orientation that are received from the NavPod. - Created software to shoot a ball into a target from anywhere within 30ft of a target. To do this the proper launch angle, exit velocity and turret angle were calculated. - Wrote game element detection software to detect a yellow ball using a GRIP pipeline, webcam and a raspberry pi. - Planned, implemented, and optimized autonomous sequences - Misc soldering, wiring, and part design and manufacturing.
+Skills: Agile Methodologies · Raspberry Pi · Problem Solving · GitHub · Motion Planning · Programming · Object-Oriented Programming (OOP) · Microsoft Visual Studio Code · Systems Engineering · Teamwork · Leadership · Microcontrollers · Delegation · Git · C++ · Technical Understanding · Communication · Analytical Skills · Mathematics · Software Development · Sensor Fusion · Project Management
+
+Education:
+
+
+University of Michigan
+University of Michigan
+Bachelors of Science in Engineering (BSE), Computer ScienceBachelors of Science in Engineering (BSE), Computer Science
+Aug 2023 - May 2026Aug 2023 - May 2026
+Activities and societies: Dean's List, University Honors, Michigander EV and Mobility Scholar
+MFly, Michigan HackersActivities and societies: Dean's List, University Honors, Michigander EV and Mobility Scholar MFly, Michigan Hackers
+Classes:
+
+
+Computer Science
+
+
+EECS 491: Distributed Systems (Winter 2026)
+EECS 471: Advanced GPU Programming (Winter 2026)
+EECS 482: Operating Systems 
+EECS 408: Advanced Operating Systems Projects 
+EECS 498: Machine Learning Research 
+EECS 487: Natural Language Processing
+EECS 442: Computer Vision
+EECS 376: Foundations of Computer Science
+EECS 370: Computer Organization
+EECS 281: Data Structures and Algorithms
+EECS 280: Intro to Data Structures
+
+
+Data Science:
+STATS 401: Applied Statistical Methods II
+STATS 306: Statistical Computing
+STATS 250: Introduction to Statistics and Data Analysis
+
+
+Math:
+Math 115/116/215: Calculus I, II & III
+ROB 101: Computational Linear Algebra
+EECS 203: Discrete Math
+Classes: Computer Science EECS 491: Distributed Systems (Winter 2026) EECS 471: Advanced GPU Programming (Winter 2026) EECS 482: Operating Systems EECS 408: Advanced Operating Systems Projects EECS 498: Machine Learning Research EECS 487: Natural Language Processing EECS 442: Computer Vision EECS 376: Foundations of Computer Science EECS 370: Computer Organization EECS 281: Data Structures and Algorithms EECS 280: Intro to Data Structures Data Science: STATS 401: Applied Statistical Methods II STATS 306: Statistical Computing STATS 250: Introduction to Statistics and Data Analysis Math: Math 115/116/215: Calculus I, II & III ROB 101: Computational Linear Algebra EECS 203: Discrete Math
+Skills: Microsoft Visual Studio Code · C++ · Unit Testing · Algorithms · R (Programming Language) · Mathematics · Software Development · GitHub · Object-Oriented Programming (OOP) · Pattern Recognition · Computer Science · Technical Understanding · Julia (Programming Language) · Analytical Skills · Teamwork · Problem Solving · Test Cases · Programming · Object Oriented Design · Communication · Git · Google Gemini
+Skills: Microsoft Visual Studio Code · C++ · Unit Testing · Algorithms · R (Programming Language) · Mathematics · Software Development · GitHub · Object-Oriented Programming (OOP) · Pattern Recognition · Computer Science · Technical Understanding · Julia (Programming Language) · Analytical Skills · Teamwork · Problem Solving · Test Cases · Programming · Object Oriented Design · Communication · Git · Google Gemini
+Hartland High School logo
+Hartland High School
+Hartland High School
+High School DiplomaHigh School Diploma
+Aug 2019 - Jun 2023Aug 2019 - Jun 2023
+Activities and societies: National Honor Society
+FRC Robotics Team 3536, Varsity Tennis, Marching Band, Jazz BandActivities and societies: National Honor Society FRC Robotics Team 3536, Varsity Tennis, Marching Band, Jazz Band
+AP Calculus BC
+AP Calculus AB
+AP Computer Science A
+AP Computer Science Principles
+AP Statistics
+AP Physics C Mechanics
+AP Chemistry
+AP Psychology
+AP Macroeconomics
+AP Microeconomics
+AP United States History
+AP Literature and Composition
+AP Calculus BC AP Calculus AB AP Computer Science A AP Computer Science Principles AP Statistics AP Physics C Mechanics AP Chemistry AP Psychology AP Macroeconomics AP Microeconomics AP United States History AP Literature and Composition
+Skills: Microsoft Visual Studio Code · C++ · Mathematics · Software Development · GitHub · Object-Oriented Programming (OOP) · Pattern Recognition · Computer Science · Technical Understanding · Analytical Skills · Teamwork · Problem Solving · Programming · Leadership · Communication · Java
+Skills: Microsoft Visual Studio Code · C++ · Mathematics · Software Development · GitHub · Object-Oriented Programming (OOP) · Pattern Recognition · Computer Science · Technical Understanding · Analytical Skills · Teamwork · Problem Solving · Programming · Leadership · Communication · Java
+Washtenaw Community College logo
+Washtenaw Community College
+Washtenaw Community College
+Dual Enrollement, Computer TechnologyDual Enrollement, Computer Technology
+Aug 2022 - May 2023Aug 2022 - May 2023
+Dual Enrolled at WCC while in high school to take coursework beyond what was offered at Hartland High School
+Dual Enrolled at WCC while in high school to take coursework beyond what was offered at Hartland High School
+Skills: Microsoft Visual Studio Code · C++ · Mathematics · Software Development · Object-Oriented Programming (OOP) · Pattern Recognition · Computer Science · Technical Understanding · Analytical Skills · Eclipse · Problem Solving · Python (Programming Language) · Programming · Java

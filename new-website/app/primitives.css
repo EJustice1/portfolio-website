@@ -1,0 +1,189 @@
+/* Typography + Card primitives — every value from tokens.css */
+
+/* ─── Display (fold name, post h1) ─────────────────────────────── */
+
+.display-title {
+  font-family: var(--font-display), serif;
+  font-size: var(--text-display);
+  font-weight: var(--weight-semibold);
+  line-height: var(--leading-display);
+  letter-spacing: var(--tracking-tight);
+  color: var(--color-text-primary);
+}
+
+.post-header .display-title {
+  max-width: var(--width-prose);
+  margin-bottom: var(--space-3);
+}
+
+.fold .display-title {
+  margin-bottom: var(--space-4);
+}
+
+/* ─── Card title (all list/card headlines — display serif, one style) ─ */
+
+.card-title {
+  font-family: var(--font-display), serif;
+  font-size: var(--text-title);
+  font-weight: var(--weight-medium);
+  line-height: var(--leading-title);
+  color: var(--color-text-primary);
+  margin: 0;
+}
+
+a.card-title {
+  display: inline-block;
+  transition: color var(--transition);
+}
+
+a.card-title:hover,
+a.card-title:focus-visible {
+  color: var(--color-accent);
+}
+
+/* ─── Text variants ────────────────────────────────────────────── */
+
+.text-premise {
+  font-family: var(--font-body), system-ui, sans-serif;
+  font-size: var(--text-title);
+  font-weight: var(--weight-normal);
+  line-height: var(--leading-title);
+  color: var(--color-text-secondary);
+  margin: 0;
+}
+
+.text-body {
+  font-family: var(--font-body), system-ui, sans-serif;
+  font-size: var(--text-body);
+  font-weight: var(--weight-normal);
+  line-height: var(--leading-body);
+  color: var(--color-text-secondary);
+  margin: 0;
+}
+
+.text-meta {
+  font-family: var(--font-body), system-ui, sans-serif;
+  font-size: var(--text-meta);
+  font-weight: var(--weight-normal);
+  line-height: var(--leading-meta);
+  color: var(--color-text-tertiary);
+  margin: 0;
+}
+
+.text-submeta {
+  font-family: var(--font-body), system-ui, sans-serif;
+  font-size: var(--text-body);
+  font-weight: var(--weight-normal);
+  line-height: var(--leading-body);
+  color: var(--color-text-secondary);
+  margin: 0;
+}
+
+.text-footer {
+  font-family: var(--font-body), system-ui, sans-serif;
+  font-size: var(--text-meta);
+  font-weight: var(--weight-normal);
+  line-height: var(--leading-body);
+  color: var(--color-text-tertiary);
+  margin: 0;
+}
+
+/* Section label (uppercase, accent) */
+.section-label {
+  margin: 0 0 var(--label-bottom);
+  font-family: var(--font-body), system-ui, sans-serif;
+  font-size: var(--text-meta);
+  font-weight: var(--weight-medium);
+  line-height: var(--leading-meta);
+  letter-spacing: var(--tracking-wide);
+  text-transform: uppercase;
+  color: var(--color-accent);
+}
+
+/* ─── Card shell ───────────────────────────────────────────────── */
+
+.card-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: var(--entry-gap);
+}
+
+.card {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.card--rail {
+  border-left: var(--border-accent) solid var(--color-accent);
+  padding-left: var(--space-3);
+}
+
+.card__stack {
+  display: flex;
+  flex-direction: column;
+}
+
+.card__stack > .card-title {
+  margin-bottom: var(--space-1);
+}
+
+.card__stack > .text-meta {
+  margin-bottom: var(--space-1);
+}
+
+.card__stack > .text-meta:not(:has(+ .text-submeta)) {
+  margin-bottom: var(--space-3);
+}
+
+.card__stack > .text-submeta {
+  margin-bottom: var(--space-3);
+}
+
+.card__stack > .card__desc {
+  margin-bottom: var(--space-3);
+}
+
+.card__stack > .text-footer {
+  margin-top: var(--space-1);
+}
+
+.card__desc {
+  max-width: var(--width-text);
+}
+
+.card__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-1);
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.tag {
+  font-size: var(--text-tag);
+  font-weight: var(--weight-normal);
+  color: var(--color-text-secondary);
+  background: var(--color-bg-secondary);
+  border: var(--border-width) solid var(--color-border-tag);
+  border-radius: var(--radius-sm);
+  padding: 1px var(--space-2);
+  line-height: var(--leading-meta);
+  letter-spacing: var(--tracking-normal);
+}
+
+/* Post page: shared meta row */
+.meta-row {
+  font-size: var(--text-meta);
+  color: var(--color-text-tertiary);
+  display: flex;
+  gap: var(--space-3);
+  align-items: center;
+  line-height: var(--leading-meta);
+}
+
+.meta-row__sep {
+  color: var(--color-border-tag);
+}
